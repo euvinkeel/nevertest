@@ -14,8 +14,11 @@
     "@quenty/brio": "^14.20.4",
     "@quenty/clienttranslator": "^14.23.6",
     "@quenty/cmdrservice": "^13.29.7",
+    "@quenty/ik": "^15.35.3",
     "@quenty/loader": "^10.9.0",
     "@quenty/maid": "^3.5.0",
+    "@quenty/ragdoll": "^15.34.3",
+    "@quenty/rx": "^13.20.3",
     "@quenty/servicebag": "^11.13.3"
   },
   "publishConfig": {
