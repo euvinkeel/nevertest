@@ -1,0 +1,24 @@
+{
+  "name": "nevertest",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Roblox",
+    "Nevermore",
+    "Lua"
+  ],
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@quenty/binder": "^14.25.6",
+    "@quenty/blend": "^12.22.6",
+    "@quenty/brio": "^14.20.4",
+    "@quenty/clienttranslator": "^14.23.6",
+    "@quenty/cmdrservice": "^13.29.7",
+    "@quenty/loader": "^10.9.0",
+    "@quenty/maid": "^3.5.0",
+    "@quenty/servicebag": "^11.13.3"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  }
+}
